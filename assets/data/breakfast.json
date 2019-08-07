@@ -1,0 +1,8 @@
+{
+    "breakfast": 
+      [
+          {"fooditem": "Sausage Biscuit","price": 1.19,"calories":461},
+          {"fooditem": "Bacon and Egg Sandwich","price": 3.29,"calories":388},
+          {"fooditem": "Bacon and Egg Croissant Sandwich","price": 3.90,"calories":398}
+    ]
+  }
