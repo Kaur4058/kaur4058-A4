@@ -1,0 +1,8 @@
+{
+    "lunch": 
+      [
+          {"fooditem": "Pita Pizza","price": 6.10,"calories":376},
+          {"fooditem": "vegetable and hummus sandwich","price": 5.50,"calories":402},
+          {"fooditem": " egg lettuc salad wrap","price": 4.75,"calories":410}
+    ]
+  }

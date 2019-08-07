@@ -1,0 +1,8 @@
+{
+    "dinner": 
+      [
+          {"fooditem": " Sweet Potato Burger With Creamy Avocado","price": 6.19,"calories":367},
+          {"fooditem": "Turkey-Basil Meatballs With Collard Greens","price": 8.29,"calories":478},
+          {"fooditem": "Spaghetti Squash With Spinach, Parmesan, and a Fried Egg","price": 9.90,"calories":403}
+    ]
+  }
